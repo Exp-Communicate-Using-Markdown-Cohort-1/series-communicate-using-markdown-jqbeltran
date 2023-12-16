@@ -6,3 +6,6 @@ Cambio, solo es una simulación.
 ```
 print("s i m u l a c i ó n")
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
